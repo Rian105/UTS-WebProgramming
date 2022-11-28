@@ -19,9 +19,6 @@
                 {{ $Author }}
             </div>
         
-            <div class="card-inner-button-container">
-                <button class="card-inner-button" onclick="location.href='/Home/harry-potter-prisoner'">Detail</button>
-            </div>
         </div>
 
     

@@ -33,7 +33,7 @@
             </div>
         
             <div class="card-inner-button-container">
-                <button class="card-inner-button" onclick="location.href='/Home/harry-potter-prisoner'">Detail</button>
+                <button class="card-inner-button" onclick="location.href='/Home/1'">Detail</button>
             </div>
         </div>
     </div>
